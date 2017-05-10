@@ -1,7 +1,7 @@
 # spring-boot-cucumber-basic
 Configuration Spring boot and Cucumber
 
-I read this link for my example:
+I read these links for my example:
 - https://github.com/cucumber/cucumber/wiki/Tutorials-and-Related-Blog-Posts
 - https://www.tutorialspoint.com/cucumber/cucumber_environment.htm
 - http://www.baeldung.com/cucumber-spring-integration
